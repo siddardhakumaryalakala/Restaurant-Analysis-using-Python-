@@ -88,3 +88,26 @@ Task 3 — Price Range vs Services
 
 Relationship between pricing and services
 Online delivery & table booking analysis
+# 🛠️ Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+
+# 📈 Key Insights
+
+Identified the most popular cuisines and restaurant chains
+
+Analyzed customer behavior through ratings and votes
+
+Visualized restaurant distribution geographically
+
+Discovered trends between pricing, ratings, and online services
