@@ -12,7 +12,7 @@ Exploratory Data Analysis (EDA)
 Data Visualization
 Statistical Analysis
 Geographic & Review Analysis
-🚀 Internship Details
+🚀 Internship Details 
 Organization: Cognifyz Technologies
 Domain: Data Analysis
 Internship Type: Virtual Internship
